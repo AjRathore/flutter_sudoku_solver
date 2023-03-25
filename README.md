@@ -14,3 +14,8 @@ This app includes the functionality of edge detection library written by Marc. T
 
 ## Remarks 
 It is a private project for learning. No plans for release
+
+
+
+https://user-images.githubusercontent.com/78407925/227712815-373592e3-6ce8-4ba9-a22e-d7cc2c513f69.mp4
+
